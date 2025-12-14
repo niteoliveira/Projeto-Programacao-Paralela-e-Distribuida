@@ -1,0 +1,1 @@
+"A implementação pode causar deadlock quando todos os filósofos pegam o garfo esquerdo simultaneamente e ficam esperando o direito. Durante os testes, observei [X execuções sem deadlock / Y com deadlock]."
